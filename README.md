@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hi, I'm Vikram Bhagnani  
+**Aspiring Data Analyst | Excel | SQL | Python | Power BI | Statistics**
 
-<!--
-**VikramBhagnani/VikramBhagnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a detail-oriented and analytical aspiring Data Analyst with a strong foundation in  
+**Power BI, SQL, Python, Statistics, Excel, and Data Visualization**.  
+I enjoy transforming raw data into meaningful insights that help businesses make better decisions.
 
-Here are some ideas to get you started:
+I have completed the Certified Data Analyst course from **DataMites** (Ahmedabad) and an internship focused on customer segmentation and business analytics. I’m constantly learning, building real-world projects, and improving my communication + problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 **Skills & Tools**
+### **Programming & Querying**
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (Joins, CTEs, Window Functions, Aggregations)
+
+### **Data Analysis & Visualization**
+- Power BI (DAX, Data Modelling, Dashboards)
+- Excel (Advanced Excel, Pivot Tables, Power Query)
+- Tableau (basics)
+
+### **Statistics & Analytical Concepts**
+- Probability | Hypothesis Testing  
+- Descriptive & Inferential Statistics  
+- Data Cleaning | EDA | Business Insights  
+
+---
+
+## 📘 **Featured Projects**
+Below are the key projects I’ve worked on (more coming soon 👇):
+
+- 📊 **Customer Segmentation Analysis**  
+  → *Identified behavioral clusters using Python, improving targeting strategies.*  
+  👉 [View Project](YOUR-LINK-HERE)
+
+- 🎬 **IMDB Movie Analysis (SQL Project)**  
+  → *Analyzed movie trends, revenue patterns, and top-rated genres using SQL.*  
+  👉 [View Project](YOUR-LINK-HERE)
+
+- 🛒 **Chip Purchasing Behavior Analysis**  
+  → *Delivered insights on promotions & customer loyalty to improve category decisions.*  
+  👉 [View Project](YOUR-LINK-HERE)
+
+- 📱 **Mobile Browsing Behaviour Analysis**  
+  → *Analyzed user lifecycle, device patterns, and engagement with Python + Power BI.*  
+  👉 [View Project](YOUR-LINK-HERE)
+
+*(I keep updating new projects regularly. Stay tuned!)*
+
+---
+
+## 🎯 **What I’m Currently Working On**
+- Improving advanced statistical thinking  
+- Strengthening Power BI DAX & storytelling skills  
+- Building more end-to-end business analytics projects  
+- Practicing communication skills to deliver better insights  
+
+---
+
+## 📄 **Resume**
+👉 [Download Resume](YOUR-LINK-HERE)
+
+---
+
+## 📫 **Connect With Me**
+- **Email:** YOUR-EMAIL  
+- **LinkedIn:** YOUR-LINKEDIN-PROFILE  
+- **GitHub:** https://github.com/VikramBhagnani  
+
+---
+
+⭐ *Thanks for visiting my profile! I’m always open to project collaborations, learning opportunities, and feedback.*  
