@@ -31,7 +31,7 @@ Below are the key projects I’ve worked on (more coming soon 👇):
 
 - 📊 **Customer Segmentation Analysis**  
   → *Identified behavioral clusters using Python, improving targeting strategies.*  
-  👉 [View Project](YOUR-LINK-HERE)
+  👉 [View Project] https://github.com/VikramBhagnani/Customer-Segmentation-US-Purchase-Analysis/tree/main
 
 - 🎬 **IMDB Movie Analysis (SQL Project)**  
   → *Analyzed movie trends, revenue patterns, and top-rated genres using SQL.*  
