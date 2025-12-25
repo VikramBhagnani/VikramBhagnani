@@ -54,7 +54,7 @@ Below are the key projects I’ve worked on (more coming soon 👇):
 ---
 
 ## 📄 **Resume**
-👉 Vikram_Bhagnani_Data_Analyst_Resume.pdf
+👉 https://github.com/VikramBhagnani/VikramBhagnani/blob/3ba78254bf0fefdd8f0617619a7fc3d8758ac7e5/Vikram_Bhagnani_Data_Analyst_Resume.pdf
 
 ---
 
