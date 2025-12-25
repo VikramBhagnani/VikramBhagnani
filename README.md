@@ -54,12 +54,12 @@ Below are the key projects I’ve worked on (more coming soon 👇):
 ---
 
 ## 📄 **Resume**
-👉 [Download Resume](YOUR-LINK-HERE)
+👉 Vikram_Bhagnani_Data_Analyst_Resume.pdf
 
 ---
 
 ## 📫 **Connect With Me**
-- **Email:** YOUR-EMAIL  
+- **Email:** bhagnanai.vikram77@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/vikram-g-bhagnani-61529b22a/
 - **GitHub:** https://github.com/VikramBhagnani  
 
