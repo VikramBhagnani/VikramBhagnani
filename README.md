@@ -60,7 +60,7 @@ Below are the key projects I’ve worked on (more coming soon 👇):
 
 ## 📫 **Connect With Me**
 - **Email:** YOUR-EMAIL  
-- **LinkedIn:** YOUR-LINKEDIN-PROFILE  
+- **LinkedIn:** https://www.linkedin.com/in/vikram-g-bhagnani-61529b22a/
 - **GitHub:** https://github.com/VikramBhagnani  
 
 ---
