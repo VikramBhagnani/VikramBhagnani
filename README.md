@@ -37,9 +37,9 @@ Below are the key projects I’ve worked on (more coming soon 👇):
   → *Analyzed movie trends, revenue patterns, and top-rated genres using SQL.*  
   👉 [View Project](YOUR-LINK-HERE)
 
-- 🛒 **Chip Purchasing Behavior Analysis**  
-  → *Delivered insights on promotions & customer loyalty to improve category decisions.*  
-  👉 [View Project](YOUR-LINK-HERE)
+- 🛒 **Startup Profit Analysiss**  
+  → *Performed regression-based profit analysis to identify key revenue drivers and support data-driven investment decisions.*  
+  👉 [view project](https://github.com/VikramBhagnani/Startup-Profit-Analysis)
 
 - 📱 **Mobile Browsing Behaviour Analysis**  
   → *Analyzed user lifecycle, device patterns, and engagement with Python + Power BI.*  
