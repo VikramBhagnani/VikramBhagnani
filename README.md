@@ -39,7 +39,7 @@ Below are the key projects I’ve worked on (more coming soon 👇):
 
 - 🛒 **Startup Profit Analysiss**  
   → *Performed regression-based profit analysis to identify key revenue drivers and support data-driven investment decisions.*  
-  👉 [view project](https://github.com/VikramBhagnani/Startup-Profit-Analysis)
+  👉 [view project]https://github.com/VikramBhagnani/Startup-Profit-Analysis
 
 - 📱 **Mobile Browsing Behaviour Analysis**  
   → *Analyzed user lifecycle, device patterns, and engagement with Python + Power BI.*  
