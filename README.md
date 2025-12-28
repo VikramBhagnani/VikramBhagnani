@@ -38,7 +38,7 @@ Below are the key projects I’ve worked on (more coming soon 👇):
   👉 [View Project] https://github.com/VikramBhagnani/IMDB-SQL-Movie-Analysis
 
  - 🧾 **Sales Performance Analysis (Excel Project)**
-  → Performed multi-year sales & profitability analysis to identify growth drivers, loss-making categories, and regional performance trends.  
+   → Performed multi-year sales & profitability analysis to identify growth drivers, loss-making categories, and regional performance trends.  
   👉 [View Project] https://github.com/VikramBhagnani/Sales-Performance-Analysis
 
 
