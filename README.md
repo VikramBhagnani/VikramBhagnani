@@ -35,15 +35,15 @@ Below are the key projects I’ve worked on (more coming soon 👇):
 
 - 🎬 **IMDB Movie Analysis (SQL Project)**  
   → *Analyzed movie trends, revenue patterns, and top-rated genres using SQL.*  
-  👉 [View Project]https://github.com/VikramBhagnani/IMDB-SQL-Movie-Analysis
+  👉 [View Project] https://github.com/VikramBhagnani/IMDB-SQL-Movie-Analysis
 
 - 🛒 **Startup Profit Analysiss**  
   → *Performed regression-based profit analysis to identify key revenue drivers and support data-driven investment decisions.*  
-  👉 [view project]https://github.com/VikramBhagnani/Startup-Profit-Analysis
+  👉 [view project] https://github.com/VikramBhagnani/Startup-Profit-Analysis
 
  - 🧾 Sales Performance Analysis (Excel Project)  
   → *Performed multi-year sales & profitability analysis to identify growth drivers, loss-making categories, and regional performance trends.  
-  👉 [View Project]: https://github.com/VikramBhagnani/Sales-Performance-Analysis
+  👉 [View Project] https://github.com/VikramBhagnani/Sales-Performance-Analysis
 
 
 *(I keep updating new projects regularly. Stay tuned!)*
