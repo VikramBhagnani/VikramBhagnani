@@ -54,7 +54,7 @@ Below are the key projects I’ve worked on (more coming soon 👇):
 ---
 
 ## 📄 **Resume**
-👉
+👉 https://github.com/VikramBhagnani/VikramBhagnani/blob/main/Vikram_Bhagnani_Business_Analyst_Resume.pdf
 
 ---
 
