@@ -1,19 +1,17 @@
 # 👋 Hi, I'm Vikram Bhagnani  
-**Data | Business Analyst | Excel • SQL • Power BI • Python • Statistics**
+**Business Analyst | Data Analyst | Advace-Excel • SQL • Power BI • Statistics**
 
-I am a detail-oriented and analytical aspiring Data Analyst with a strong foundation in  **Power BI, SQL, Python, Statistics, Excel, and Data Visualization**. I enjoy transforming raw data into meaningful insights that help businesses make better decisions. I have completed the Certified Data Analyst course from **DataMites** (Ahmedabad) and an internship focused on customer segmentation and business analytics. I’m constantly learning, building real-world projects, and improving my communication + problem-solving skills.
+I am a detail-oriented and analytical Business Analyst/Data Analyst with a strong foundation in  **Power BI, SQL, Statistics, Excel, and Data Visualization**. I enjoy transforming raw data into meaningful insights that help businesses make better decisions. I have completed the Certified Data Analyst course from **DataMites** (Ahmedabad) and an internship focused on customer segmentation and business analytics. I’m constantly learning, building real-world projects.
 
 ---
 
 ## 🔧 **Skills & Tools**
 ### **Programming & Querying**
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL (Joins, CTEs, Window Functions, Aggregations)
 
 ### **Data Analysis & Visualization**
 - Power BI (DAX, Data Modelling, Dashboards)
-- Excel (Advanced Excel, Pivot Tables, Power Query)
-- Tableau (basics)
+- Excel (Advanced Excel, Pivot Tables, Vlookup and Xloo)
 
 ### **Statistics & Analytical Concepts**
 - Probability | Hypothesis Testing  
