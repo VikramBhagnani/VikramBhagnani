@@ -11,7 +11,7 @@ I am a detail-oriented and analytical Business Analyst/Data Analyst with a stron
 
 ### **Data Analysis & Visualization**
 - Power BI (DAX, Data Modelling, Dashboards)
-- Excel (Advanced Excel, Pivot Tables, Vlookup and Xloo)
+- Excel (Advance Excel, Pivot Tables, Vlookup and Xlookup)
 
 ### **Statistics & Analytical Concepts**
 - Probability | Hypothesis Testing  
@@ -54,7 +54,7 @@ Below are the key projects I’ve worked on (more coming soon 👇):
 ---
 
 ## 📄 **Resume**
-👉https://github.com/VikramBhagnani/VikramBhagnani/blob/3ba78254bf0fefdd8f0617619a7fc3d8758ac7e5/Vikram_Bhagnani_Data_Analyst_Resume.pdf
+👉
 
 ---
 
